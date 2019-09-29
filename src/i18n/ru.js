@@ -322,7 +322,7 @@
 			type: 'Тип',
 			message: 'Событие',
 			noEvents: 'Нет событий',
-			clear: 'Чисто',
+			clear: 'Очистить',
 			downloadText: 'Скачать как текст',
 			downloadCSV: 'Скачать как CSV'
 		},
