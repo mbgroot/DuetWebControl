@@ -2,7 +2,7 @@
 	language: 'Русский',
 	'$vuetify': {
 		dataIterator: {
-			rowsPerPageText: 'Штук на странице:',
+			rowsPerPageText: 'Строк на странице:',
 			rowsPerPageAll: 'Все',
 			pageText: '{0}-{1} of {2}',
 			noResultsText: 'Совпадения не найдены',
@@ -26,7 +26,7 @@
 		},
 		emergencyStop: {
 			caption: 'Аварийная остановка',
-			title: 'Немедленный остановка (M112+M999)'
+			title: 'Немедленная остановка (M112+M999)'
 		},
 		home: {
 			caption: 'Home {0}',
